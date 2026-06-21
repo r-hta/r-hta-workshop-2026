@@ -1,6 +1,6 @@
-# R-HTA Workshop 2026 Content
+# R-HTA Workshop 2026 Content Index
 
-This folder contains talk-specific content entries for the R for Health Technology Assessment workshop 2026. Materials can be added to the relevant sections below as slides, handouts, code, or external links become available.
+Store workshop files (PDF and PowerPoint) in the [`content`](content) folder. Use this index to map each talk to its content file(s).
 
 ## Day 1. Monday 22nd June 2026
 
