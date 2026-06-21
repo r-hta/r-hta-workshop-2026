@@ -200,7 +200,7 @@ This folder contains talk-specific content entries for the R for Health Technolo
 - Materials: To be added.
 
 <a id="working-with-a-discrete-event-simulation"></a>
-### Working with an Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question
+### Working with a Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question
 
 - Speaker: Pranshu Mundada
 - Institution: University of Warwick
@@ -234,7 +234,7 @@ This folder contains talk-specific content entries for the R for Health Technolo
 <a id="decomposition-framework-agentic-ai"></a>
 ### A Decomposition Framework for Translating Published Health Economic Model Descriptions into Executable R Code Using Agentic AI
 
-- Speaker: Bariz Denis
+- Speaker: Baris Deniz
 - Institution: Aide Solutions LLC
 - Session: 12:20-12:40
 - Materials: To be added.

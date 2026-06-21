@@ -76,11 +76,11 @@ Talk-specific materials are organised in the [`content`](content) folder. Use th
 | 09:50-10:10 | Shubhram Pandey | Heorlytics | seerSurv An R Package for Deriving Post Recurrence Transition Probabilities in Oncology Economic Models | [Content](content/README.md#seersurv) |
 | 10:10-10:30 | Heather Riley | York Health Economics Consortium | Integrating a Python-Based Stochastic Household COVID-19 Transmission Model into an R Shiny Cost-Effectiveness Platform via reticulate | [Content](content/README.md#reticulate-household-covid-19-model) |
 | 10:30-10:45 | Break |  |  | - |
-| 10:45-11:05 | Pranshu Mundada | University of Warwick | Working with an Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question | [Content](content/README.md#working-with-a-discrete-event-simulation) |
+| 10:45-11:05 | Pranshu Mundada | University of Warwick | Working with a Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question | [Content](content/README.md#working-with-a-discrete-event-simulation) |
 | 11:05-11:25 | Robert Smith / Yevgeniy Samyshkin | Dark Peak Analytics / GSK | Building & Scaling Custom HEOR Modelling Software within Industry | [Content](content/README.md#building-scaling-custom-heor-modelling-software) |
 | 11:25-11:45 | Lindsay Claxton | NICE | Experience of R models in HTA: a NICE perspective | [Content](content/README.md#experience-of-r-models-in-hta) |
 | 11:45-12:05 | Jesus Rodriguez Perez | Dark Peak Analytics | hotShiny: an open-source package for fast Shiny app development in R | [Content](content/README.md#hotshiny) |
 | 12:05-12:20 | Break |  |  | - |
-| 12:20-12:40 | Bariz Denis | Aide Solutions LLC | A Decomposition Framework for Translating Published Health Economic Model Descriptions into Executable R Code Using Agentic AI | [Content](content/README.md#decomposition-framework-agentic-ai) |
+| 12:20-12:40 | Baris Deniz | Aide Solutions LLC | A Decomposition Framework for Translating Published Health Economic Model Descriptions into Executable R Code Using Agentic AI | [Content](content/README.md#decomposition-framework-agentic-ai) |
 | 12:40-13:00 | Rose Hart | Covalence Research | Multimodal Network-Based Geospatial Modelling with the r5r Package: A MASLD Case Study in England | [Content](content/README.md#multimodal-network-based-geospatial-modelling) |
 | 13:00-13:10 | Robert Smith |  | Closing remarks | - |
