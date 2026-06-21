@@ -15,26 +15,26 @@ More information on travel and accommodation can be found on the main event page
 
 ## Programme
 
-Talk materials should be stored in the [`content`](content) folder. Use [`CONTENT.md`](CONTENT.md) to find the links for each talk.
+Talk materials will be added in the [`content`](content) folder. Links below are placeholders for the specific slide files.
 
 ### Day 1. Monday 22nd June 2026 (In person and Remote)
 
 | Session | Name | Institution | Title | Links |
 | --- | --- | --- | --- | --- |
 | 11:00-11:10 | Dawn Lee | PenTAG, University of Exeter | Welcome | - |
-| 11:10-11:30 | Edna Keeney / Carolina Heuser | Clifton Insight / Roche | RforCEM - A comprehensive and user-friendly cost-effectiveness model template in the R programming language | [Content](CONTENT.md#rforcem) |
-| 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs | [Content](CONTENT.md#excel-r-hybrid-patient-simulation-model) |
-| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [Content](CONTENT.md#treatseqr) |
+| 11:10-11:30 | Edna Keeney / Carolina Heuser | Clifton Insight / Roche | RforCEM - A comprehensive and user-friendly cost-effectiveness model template in the R programming language | [Content](content/rforcem.pdf) |
+| 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs | [Content](content/excel-r-hybrid-patient-simulation-model.pdf) |
+| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [Content](content/treatseqr.pdf) |
 | 12:10-13:10 | Lunch |  |  | - |
-| 13:10-13:30 | Michael O'Donnell | University of Bristol | Is your code fast enough? | [Content](CONTENT.md#is-your-code-fast-enough) |
-| 13:30-13:50 | Aaron Gorman | Public Health Agency | Northern Ireland, a Population Health Model: A Microsimulation in R for Long Term Chronic Non - Communicable Conditions | [Content](CONTENT.md#northern-ireland-population-health-model) |
-| 13:50-14:10 | Eva Li | University of Bristol | A discrete event simulation model to assess treatment sequences in rheumatoid arthritis in a Chinese population, accounting for heterogeneity | [Content](CONTENT.md#rheumatoid-arthritis-treatment-sequences) |
+| 13:10-13:30 | Michael O'Donnell | University of Bristol | Is your code fast enough? | [Content](content/is-your-code-fast-enough.pdf) |
+| 13:30-13:50 | Aaron Gorman | Public Health Agency | Northern Ireland, a Population Health Model: A Microsimulation in R for Long Term Chronic Non - Communicable Conditions | [Content](content/northern-ireland-population-health-model.pdf) |
+| 13:50-14:10 | Eva Li | University of Bristol | A discrete event simulation model to assess treatment sequences in rheumatoid arthritis in a Chinese population, accounting for heterogeneity | [Content](content/rheumatoid-arthritis-treatment-sequences.pdf) |
 | 14:10-14:40 | Break |  |  | - |
-| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation | [Content](CONTENT.md#care-closer-to-home) |
-| 15:00-15:20 | Liza Zasukhina | MSD | Agentic health economic modelling made auditable with YAML and open-source R packages | [Content](CONTENT.md#agentic-health-economic-modelling) |
-| 15:20-15:40 | Alfredo Mariani | Takeda | COSTmos: A universe of cost resources for HTA in the UK within a practical R package and Shiny dashboard | [Content](CONTENT.md#costmos) |
+| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation | [Content](content/care-closer-to-home.pdf) |
+| 15:00-15:20 | Liza Zasukhina | MSD | Agentic health economic modelling made auditable with YAML and open-source R packages | [Content](content/agentic-health-economic-modelling.pdf) |
+| 15:20-15:40 | Alfredo Mariani | Takeda | COSTmos: A universe of cost resources for HTA in the UK within a practical R package and Shiny dashboard | [Content](content/costmos.pdf) |
 | 15:40-16:10 | Break |  |  | - |
-| 16:10-16:50 | Gabriel Rogers / Catherine McGuire | Manchester Centre for Health Economics / U of Manchester Research Software Engineering | R Mutual Friend: Interdisciplinary collaboration between health economists and research software engineers to deliver a complex HTA project | [Content](CONTENT.md#r-mutual-friend) |
+| 16:10-16:50 | Gabriel Rogers / Catherine McGuire | Manchester Centre for Health Economics / U of Manchester Research Software Engineering | R Mutual Friend: Interdisciplinary collaboration between health economists and research software engineers to deliver a complex HTA project | [Content](content/r-mutual-friend.pdf) |
 | 16:50-17:00 | Howard Thom |  | Closing remarks | - |
 
 ### Day 2. Tuesday 23rd June 2026 (Remote)
@@ -42,18 +42,18 @@ Talk materials should be stored in the [`content`](content) folder. Use [`CONTEN
 | Session | Name | Institution | Title | Links |
 | --- | --- | --- | --- | --- |
 | 12:30-12:40 | Raquel Aguiar-Ibanez |  | Welcome | - |
-| 12:40-13:00 | Javier Sanchez Alvarez | Value Analytics Centre | 20,000 Leagues Under R: A Journey of Transformation into a Resource-Constrained DES Package | [Content](CONTENT.md#20000-leagues-under-r) |
-| 13:00-13:20 | Lucy Watson | Dark Peak Analytics | Scaling Expert Elicitation with an R-powered Platform | [Content](CONTENT.md#scaling-expert-elicitation) |
-| 13:20-13:40 | Nyasha Manyeruke | African Centre of Excellence for Population Health and Policy | Scaling open source spatial monitoring of maternal deaths with R Shiny: evidence from Kano State, Nigeria | [Content](CONTENT.md#spatial-monitoring-of-maternal-deaths) |
-| 13:40-14:00 | Xavier Pouwels | University of Twente | Developing the CHecklist for Assessing Open Source Health Economic Models (CHAOS) | [Content](CONTENT.md#chaos-checklist) |
+| 12:40-13:00 | Javier Sanchez Alvarez | Value Analytics Centre | 20,000 Leagues Under R: A Journey of Transformation into a Resource-Constrained DES Package | [Content](content/20000-leagues-under-r.pdf) |
+| 13:00-13:20 | Lucy Watson | Dark Peak Analytics | Scaling Expert Elicitation with an R-powered Platform | [Content](content/scaling-expert-elicitation.pdf) |
+| 13:20-13:40 | Nyasha Manyeruke | African Centre of Excellence for Population Health and Policy | Scaling open source spatial monitoring of maternal deaths with R Shiny: evidence from Kano State, Nigeria | [Content](content/spatial-monitoring-of-maternal-deaths.pdf) |
+| 13:40-14:00 | Xavier Pouwels | University of Twente | Developing the CHecklist for Assessing Open Source Health Economic Models (CHAOS) | [Content](content/chaos-checklist.pdf) |
 | 14:00-14:15 | Break |  |  | - |
-| 14:15-14:35 | Ahmad Sofi-Mahmudi | Thermo Fisher Scientific | mlumr: An R Package for Conducting Indirect Comparisons with Multilevel Unanchored Meta-Regression | [Content](CONTENT.md#mlumr) |
-| 14:35-14:55 | Mary Ward | University of Bristol | Discrete event simulation model in R for the optimal testing for routine monitoring in chronic conditions | [Content](CONTENT.md#optimal-testing-routine-monitoring) |
-| 14:55-15:15 | Hawre Jalal | University of Ottawa | Twig: A Computationally Efficient and Fully Vectorized Approach to Time-Dependent Markov Modeling in R | [Content](CONTENT.md#twig) |
-| 15:15-15:35 | Petros Pechlivanoglou | The Hospital for Sick Children, Canada | Improving computational efficiency in discrete-time microsimulation models in R and Python | [Content](CONTENT.md#computational-efficiency-microsimulation-models) |
+| 14:15-14:35 | Ahmad Sofi-Mahmudi | Thermo Fisher Scientific | mlumr: An R Package for Conducting Indirect Comparisons with Multilevel Unanchored Meta-Regression | [Content](content/mlumr.pdf) |
+| 14:35-14:55 | Mary Ward | University of Bristol | Discrete event simulation model in R for the optimal testing for routine monitoring in chronic conditions | [Content](content/optimal-testing-routine-monitoring.pdf) |
+| 14:55-15:15 | Hawre Jalal | University of Ottawa | Twig: A Computationally Efficient and Fully Vectorized Approach to Time-Dependent Markov Modeling in R | [Content](content/twig.pdf) |
+| 15:15-15:35 | Petros Pechlivanoglou | The Hospital for Sick Children, Canada | Improving computational efficiency in discrete-time microsimulation models in R and Python | [Content](content/computational-efficiency-microsimulation-models.pdf) |
 | 15:35-15:50 | Break |  |  | - |
-| 15:50-16:10 | Rafael Miranda | Canada's Drug Agency | A Shiny-Based App to Automate the Construction of Cost Comparison Tables | [Content](CONTENT.md#cost-comparison-tables) |
-| 16:10-17:00 | Panel Session | Baris Deniz (AIde Solutions), Ian Cromwell (Independent), Tom Monks (University of Exeter), Rob Hettle (AstraZeneca) | Using R to leverage the power of gen AI in HTA | [Content](CONTENT.md#using-r-to-leverage-the-power-of-gen-ai-in-hta) |
+| 15:50-16:10 | Rafael Miranda | Canada's Drug Agency | A Shiny-Based App to Automate the Construction of Cost Comparison Tables | [Content](content/cost-comparison-tables.pdf) |
+| 16:10-17:00 | Panel Session | Baris Deniz (AIde Solutions), Ian Cromwell (Independent), Tom Monks (University of Exeter), Rob Hettle (AstraZeneca) | Using R to leverage the power of gen AI in HTA | [Content](content/using-r-to-leverage-the-power-of-gen-ai-in-hta.pdf) |
 | 17:00-17:10 | Dominic Muston |  | Closing remarks | - |
 
 ### Day 3. Wednesday 24th June 2026 (Remote)
@@ -61,16 +61,16 @@ Talk materials should be stored in the [`content`](content) folder. Use [`CONTEN
 | Session | Name | Institution | Title | Links |
 | --- | --- | --- | --- | --- |
 | 09:00-09:10 | Lea Trela-Larsen |  | Welcome | - |
-| 09:10-09:30 | Simon Smart | University of Leicester | MetaInsight v7: Making a Comprehensive Web App for Network Meta-analysis Reproducible | [Content](CONTENT.md#metainsight-v7) |
-| 09:30-09:50 | Akansha Sharma | Heorlytics | drMAIC: A Doubly Robust R Package for Reproducible Matching-Adjusted Indirect Comparisons in HTA | [Content](CONTENT.md#drmaic) |
-| 09:50-10:10 | Shubhram Pandey | Heorlytics | seerSurv An R Package for Deriving Post Recurrence Transition Probabilities in Oncology Economic Models | [Content](CONTENT.md#seersurv) |
-| 10:10-10:30 | Heather Riley | York Health Economics Consortium | Integrating a Python-Based Stochastic Household COVID-19 Transmission Model into an R Shiny Cost-Effectiveness Platform via reticulate | [Content](CONTENT.md#reticulate-household-covid-19-model) |
+| 09:10-09:30 | Simon Smart | University of Leicester | MetaInsight v7: Making a Comprehensive Web App for Network Meta-analysis Reproducible | [Content](content/metainsight-v7.pdf) |
+| 09:30-09:50 | Akansha Sharma | Heorlytics | drMAIC: A Doubly Robust R Package for Reproducible Matching-Adjusted Indirect Comparisons in HTA | [Content](content/drmaic.pdf) |
+| 09:50-10:10 | Shubhram Pandey | Heorlytics | seerSurv An R Package for Deriving Post Recurrence Transition Probabilities in Oncology Economic Models | [Content](content/seersurv.pdf) |
+| 10:10-10:30 | Heather Riley | York Health Economics Consortium | Integrating a Python-Based Stochastic Household COVID-19 Transmission Model into an R Shiny Cost-Effectiveness Platform via reticulate | [Content](content/reticulate-household-covid-19-model.pdf) |
 | 10:30-10:45 | Break |  |  | - |
-| 10:45-11:05 | Pranshu Mundada | University of Warwick | Working with a Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question | [Content](CONTENT.md#working-with-a-discrete-event-simulation) |
-| 11:05-11:25 | Robert Smith / Yevgeniy Samyshkin | Dark Peak Analytics / GSK | Building & Scaling Custom HEOR Modelling Software within Industry | [Content](CONTENT.md#building-scaling-custom-heor-modelling-software) |
-| 11:25-11:45 | Lindsay Claxton | NICE | Experience of R models in HTA: a NICE perspective | [Content](CONTENT.md#experience-of-r-models-in-hta) |
-| 11:45-12:05 | Jesus Rodriguez Perez | Dark Peak Analytics | hotShiny: an open-source package for fast Shiny app development in R | [Content](CONTENT.md#hotshiny) |
+| 10:45-11:05 | Pranshu Mundada | University of Warwick | Working with a Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question | [Content](content/working-with-a-discrete-event-simulation.pdf) |
+| 11:05-11:25 | Robert Smith / Yevgeniy Samyshkin | Dark Peak Analytics / GSK | Building & Scaling Custom HEOR Modelling Software within Industry | [Content](content/building-scaling-custom-heor-modelling-software.pdf) |
+| 11:25-11:45 | Lindsay Claxton | NICE | Experience of R models in HTA: a NICE perspective | [Content](content/experience-of-r-models-in-hta.pdf) |
+| 11:45-12:05 | Jesus Rodriguez Perez | Dark Peak Analytics | hotShiny: an open-source package for fast Shiny app development in R | [Content](content/hotshiny.pdf) |
 | 12:05-12:20 | Break |  |  | - |
-| 12:20-12:40 | Baris Deniz | Aide Solutions LLC | A Decomposition Framework for Translating Published Health Economic Model Descriptions into Executable R Code Using Agentic AI | [Content](CONTENT.md#decomposition-framework-agentic-ai) |
-| 12:40-13:00 | Rose Hart | Covalence Research | Multimodal Network-Based Geospatial Modelling with the r5r Package: A MASLD Case Study in England | [Content](CONTENT.md#multimodal-network-based-geospatial-modelling) |
+| 12:20-12:40 | Baris Deniz | Aide Solutions LLC | A Decomposition Framework for Translating Published Health Economic Model Descriptions into Executable R Code Using Agentic AI | [Content](content/decomposition-framework-agentic-ai.pdf) |
+| 12:40-13:00 | Rose Hart | Covalence Research | Multimodal Network-Based Geospatial Modelling with the r5r Package: A MASLD Case Study in England | [Content](content/multimodal-network-based-geospatial-modelling.pdf) |
 | 13:00-13:10 | Robert Smith |  | Closing remarks | - |
