@@ -43,7 +43,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | --- | --- | --- | --- | --- |
 | 12:30-12:40 | Raquel Aguiar-Ibanez |  | Welcome | - |
 | 12:40-13:00 | Javier Sanchez Alvarez | Value Analytics Centre | 20,000 Leagues Under R: A Journey of Transformation into a Resource-Constrained DES Package |  |
-| 13:00-13:20 | Lucy Watson | Dark Peak Analytics | Scaling Expert Elicitation with an R-powered Platform | |
+| 13:00-13:20 | Lucy Watson | Dark Peak Analytics | Scaling Expert Elicitation with an R-powered Platform | [slides](content/Scaling%20Expert%20Elicitation%20with%20an%20R-powered%20Platform.pdf) |
 | 13:20-13:40 | Robert Smith | Dark Peak Analytics | **Last minute replacement** R-HTA Survey results | [slides](content/R-HTA%20Expert%20Elicitation%20Survey%20Results.pdf)  |
 | 13:40-14:00 | Xavier Pouwels | University of Twente | Developing the CHecklist for Assessing Open Source Health Economic Models (CHAOS) |  |
 | 14:00-14:15 | Break |  |  | - |
