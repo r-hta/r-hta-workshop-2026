@@ -30,7 +30,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | 13:30-13:50 | Aaron Gorman | Public Health Agency | Northern Ireland, a Population Health Model: A Microsimulation in R for Long Term Chronic Non - Communicable Conditions |  |
 | 13:50-14:10 | Eva Li | University of Bristol | A discrete event simulation model to assess treatment sequences in rheumatoid arthritis in a Chinese population, accounting for heterogeneity |  |
 | 14:10-14:40 | Break |  |  | - |
-| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation |  |
+| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation | [slides](content/Geospatial%20Care%20Closer%20to%20Home.pdf) |
 | 15:00-15:20 | Liza Zasukhina | MSD | Agentic health economic modelling made auditable with YAML and open-source R packages |  |
 | 15:20-15:40 | Alfredo Mariani | Takeda | COSTmos: A universe of cost resources for HTA in the UK within a practical R package and Shiny dashboard |  |
 | 15:40-16:10 | Break |  |  | - |
