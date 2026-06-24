@@ -24,7 +24,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | 11:00-11:10 | Dawn Lee | PenTAG, University of Exeter | Welcome | - |
 | 11:10-11:30 | Edna Keeney / Carolina Heuser | Clifton Insight / Roche | RforCEM - A comprehensive and user-friendly cost-effectiveness model template in the R programming language |  |
 | 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs |  |
-| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA |  |
+| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [slides](content/treatseqr.presentation.pdf) |
 | 12:10-13:10 | Lunch |  |  | - |
 | 13:10-13:30 | Michael O'Donnell | University of Bristol | Is your code fast enough? |  |
 | 13:30-13:50 | Aaron Gorman | Public Health Agency | Northern Ireland, a Population Health Model: A Microsimulation in R for Long Term Chronic Non - Communicable Conditions |  |
@@ -67,7 +67,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | 10:10-10:30 | Heather Riley | York Health Economics Consortium | Integrating a Python-Based Stochastic Household COVID-19 Transmission Model into an R Shiny Cost-Effectiveness Platform via reticulate |  |
 | 10:30-10:45 | Break |  |  | - |
 | 10:45-11:05 | Pranshu Mundada | University of Warwick | Working with a Discrete Event Simulation in R: Validation, Modification and Output Extraction for a National Breast Cancer Screening Policy Question |  |
-| 11:05-11:25 | Robert Smith / Yevgeniy Samyshkin | Dark Peak Analytics / GSK | Building & Scaling Custom HEOR Modelling Software within Industry | [Content](content/Wed-SmithSamyshkin-Enterprise.pdf) |
+| 11:05-11:25 | Robert Smith / Yevgeniy Samyshkin | Dark Peak Analytics / GSK | Building & Scaling Custom HEOR Modelling Software within Industry | [slides](content/Wed-SmithSamyshkin-Enterprise.pdf) |
 | 11:25-11:45 | Lindsay Claxton | NICE | Experience of R models in HTA: a NICE perspective |  |
 | 11:45-12:05 | Jesus Rodriguez Perez | Dark Peak Analytics | hotShiny: an open-source package for fast Shiny app development in R |  |
 | 12:05-12:20 | Break |  |  | - |
