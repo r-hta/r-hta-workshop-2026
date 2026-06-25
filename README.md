@@ -61,7 +61,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | Session | Name | Institution | Title | Links |
 | --- | --- | --- | --- | --- |
 | 09:00-09:10 | Lea Trela-Larsen |  | Welcome | - |
-| 09:10-09:30 | Simon Smart | University of Leicester | MetaInsight v7: Making a Comprehensive Web App for Network Meta-analysis Reproducible |  |
+| 09:10-09:30 | Simon Smart | University of Leicester | MetaInsight v7: Making a Comprehensive Web App for Network Meta-analysis Reproducible | [slides](https://simon-smart88.github.io/metainsight_rhta/slides.html) |
 | 09:30-09:50 | Akansha Sharma | Heorlytics | drMAIC: A Doubly Robust R Package for Reproducible Matching-Adjusted Indirect Comparisons in HTA |  |
 | 09:50-10:10 | Shubhram Pandey | Heorlytics | seerSurv An R Package for Deriving Post Recurrence Transition Probabilities in Oncology Economic Models |  |
 | 10:10-10:30 | Heather Riley | York Health Economics Consortium | Integrating a Python-Based Stochastic Household COVID-19 Transmission Model into an R Shiny Cost-Effectiveness Platform via reticulate |  |
