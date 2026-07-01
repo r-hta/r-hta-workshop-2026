@@ -24,13 +24,13 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | 11:00-11:10 | Dawn Lee | PenTAG, University of Exeter | Welcome | [Video](https://youtu.be/fTgx6bF9Uog) |
 | 11:10-11:30 | Edna Keeney / Carolina Heuser | Clifton Insight / Roche | RforCEM - A comprehensive and user-friendly cost-effectiveness model template in the R programming language | [Video](https://youtu.be/jTKpPOWugBs)  |
 | 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs |  |
-| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [slides](content/treatseqr.presentation.pdf) [video](https://youtu.be/J9V1TzG2egU) |
+| 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [slides](content/treatseqr.presentation.pdf) [Video](https://youtu.be/J9V1TzG2egU) |
 | 12:10-13:10 | Lunch |  |  | - |
 | 13:10-13:30 | Michael O'Donnell | University of Bristol | Is your code fast enough? | [Video](https://youtu.be/ETGizOsQwqM)  |
 | 13:30-13:50 | Aaron Gorman | Public Health Agency | Northern Ireland, a Population Health Model: A Microsimulation in R for Long Term Chronic Non - Communicable Conditions | [Video](https://youtu.be/PrRGFZ4Eg2E)  |
 | 13:50-14:10 | Eva Li | University of Bristol | A discrete event simulation model to assess treatment sequences in rheumatoid arthritis in a Chinese population, accounting for heterogeneity | [Video](https://youtu.be/amEB6PdhouM) |
 | 14:10-14:40 | Break |  |  | - |
-| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation | [slides](content/Geospatial%20Care%20Closer%20to%20Home.pdf) |
+| 14:40-15:00 | Oliver Dolin / Lewis Ralph | Dark Peak Analytics / Roche | Care Closer to Home: An Open-Source R Framework for Geospatial Health Technology Assessment and Service Optimisation | [slides](content/Geospatial%20Care%20Closer%20to%20Home.pdf) [Video](https://youtu.be/b7dVcGxqjRA) |
 | 15:00-15:20 | Liza Zasukhina | MSD | Agentic health economic modelling made auditable with YAML and open-source R packages |  |
 | 15:20-15:40 | Alfredo Mariani | Takeda | COSTmos: A universe of cost resources for HTA in the UK within a practical R package and Shiny dashboard | [Video](https://youtu.be/U6v8sNJy_5c) |
 | 15:40-16:10 | Break |  |  | - |
