@@ -23,7 +23,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | --- | --- | --- | --- | --- |
 | 11:00-11:10 | Dawn Lee | PenTAG, University of Exeter | Welcome | [Video](https://youtu.be/fTgx6bF9Uog) |
 | 11:10-11:30 | Edna Keeney / Carolina Heuser | Clifton Insight / Roche | RforCEM - A comprehensive and user-friendly cost-effectiveness model template in the R programming language | [Video](https://youtu.be/jTKpPOWugBs)  |
-| 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs |  |
+| 11:30-11:50 | Alex Mclean | Costello Medical | An Excel and R Hybrid Patient Simulation Model: Utilising Parallel Core Processing and Vectored Simulations for HTA Ready CEMs | [Video](https://youtu.be/aa-nSmPrCbg) |
 | 11:50-12:10 | Darren Burns | Dark Peak Analytics | treatseqr: A Matrix Based Framework for Scalable Treatment Sequencing in HTA | [slides](content/treatseqr.presentation.pdf) [Video](https://youtu.be/J9V1TzG2egU) |
 | 12:10-13:10 | Lunch |  |  | - |
 | 13:10-13:30 | Michael O'Donnell | University of Bristol | Is your code fast enough? | [Video](https://youtu.be/ETGizOsQwqM)  |
@@ -44,7 +44,7 @@ Talk materials will be added in the [`content`](content) folder. Links below are
 | 12:30-12:40 | Raquel Aguiar-Ibanez |  | Welcome | - |
 | 12:40-13:00 | Javier Sanchez Alvarez | Value Analytics Centre | 20,000 Leagues Under R: A Journey of Transformation into a Resource-Constrained DES Package | [Video](https://youtu.be/VicVTy-5gsA)  |
 | 13:00-13:20 | Lucy Watson | Dark Peak Analytics | Scaling Expert Elicitation with an R-powered Platform | [slides](content/Scaling%20Expert%20Elicitation%20with%20an%20R-powered%20Platform.pdf) [Video](https://youtu.be/NesQ8BXr3vk)|
-| 13:20-13:40 | Robert Smith | Dark Peak Analytics | **Last minute replacement** R-HTA Survey results | [slides](content/R-HTA%20Expert%20Elicitation%20Survey%20Results.pdf)  |
+| 13:20-13:40 | Robert Smith | Dark Peak Analytics | **Last minute replacement** R-HTA Survey results | [Slides](content/R-HTA%20Expert%20Elicitation%20Survey%20Results.pdf) [Video](https://youtu.be/NxHjW7FlrFE)  |
 | 13:40-14:00 | Xavier Pouwels | University of Twente | Developing the CHecklist for Assessing Open Source Health Economic Models (CHAOS) | [Video](https://youtu.be/tjoiedg6OB8) |
 | 14:00-14:15 | Break |  |  | - |
 | 14:15-14:35 | Ahmad Sofi-Mahmudi | Thermo Fisher Scientific | mlumr: An R Package for Conducting Indirect Comparisons with Multilevel Unanchored Meta-Regression | [Video](https://youtu.be/JfEQxEyPQKk) |
